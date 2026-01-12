@@ -19,5 +19,9 @@ Overall objective experimental results
 - natsort==8.4.0
 - pillow==11.0.0
 ## How to train
-We have provided sample data in data_deample. In the first stage of training our VAE, we only need to run Python VAE/DMD_cvae.Py, while in the second stage of training, we need to run Python diffusion/mtil_comdi-diff-py
+We have provided sample data in data_deample. In the first stage of training our VAE, we only need to run 
+'''
+Python VAE/DMD_cvae.Py
+'''
+while in the second stage of training, we need to run Python diffusion/mtil_comdi-diff-py
  
