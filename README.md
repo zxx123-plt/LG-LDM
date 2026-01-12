@@ -25,4 +25,7 @@ We have provided sample data in data_deample. In the first stage of training our
 ```
 
 while in the second stage of training, we need to run Python diffusion/mtil_comdi-diff-py
+```
+ python diffusion/mtil_comdi-diff-py
+```
  
