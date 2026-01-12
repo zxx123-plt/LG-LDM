@@ -1,3 +1,3 @@
 # LG-LDM
 overall Subjective experimental results:
-(paper_image/image1.png)
+![image1](paper_image/image.png)
