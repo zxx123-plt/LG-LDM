@@ -21,4 +21,18 @@ This code is the pytorch implementation of LG-LDM
 -pillow==11.0.0
 
 
+This code is the pytorch implementation of LPUWF-LDM
+- Linux
+- numpy==1.26.3
+- torch==2.0.0+cu118
+- tqdm==4.66.2
+- accelerate==0.27.2
+- monai==1.3.0
+- PyYAML==6.0.1
+- natsort==8.4.0
+- monai-generative==0.2.3
+- lpips==0.1.4
+- tensorboard==2.15.1
+
+
  
