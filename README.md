@@ -30,6 +30,6 @@ while in the second stage of training, we need to run Python diffusion/mtil_comd
 ```
 ## Acknowledgments
 
-Sincere thanks to Tinysqua for his work https://github.com/Tinysqua/LPUWF-LDM And the organization of UWAFA-GAN, UWAT-GAN, VTGAN pytorch version code. The work of this project is based on this, and our goal is to build a publicly available dataset to bring this field to reality.
+We sincerely thank Tinysqua for his work (https://github.com/Tinysqua/LPUWF-LDM) as well as for organizing the PyTorch implementations of UWAFA-GAN, UWAT-GAN, and VTGAN. The present project builds upon these contributions, and our goal is to develop a publicly available dataset to help advance progress in this field.
 
  
