@@ -28,4 +28,8 @@ while in the second stage of training, we need to run Python diffusion/mtil_comd
 ```
  python diffusion/mtil_comdi-diff-py
 ```
+## Acknowledgments
+```
+Sincere thanks to Tinysqua for his work https://github.com/Tinysqua/LPUWF-LDM And the organization of UWAFA-GAN, UWAT-GAN, VTGAN pytorch version code. The work of this project is based on this, and our goal is to build a publicly available dataset to bring this field to reality.
+```
  
